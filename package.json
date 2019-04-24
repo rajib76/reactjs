@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a demo app",
   "main": "index.js",
+  "start":"node server.js",
   "scripts": {
     "build": "webpack"
   },
