@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "This is a demo app",
   "main": "index.js",
+  "engines": {
+    "node":"10.15.3",
+    "npm":"6.4.1"
+  },
   
   "scripts": {
-    "build": "webpack",
-    "start":"node server.js"
+    "build": "webpack"
   },
   "keywords": [
     "React"
